@@ -9,7 +9,7 @@ In this we use azure technologies like static web apps,Q and A maker.
 
 Project link - https://black-river-01ae4a310.3.azurestaticapps.net/
 
-Project demo video link - https://youtu.be/Kk-PqBcdkT4
+Project demo video link - https://youtu.be/U8I_dv_hX44
 <h1>ScreenShots</h1>
 
 ![WhatsApp Image 2023-06-28 at 9 09 42 PM](https://github.com/20A31A05C2/frt_project/assets/102516151/ed90493f-c65b-403c-a3ed-17a4326b610a)
