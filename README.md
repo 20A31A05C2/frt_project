@@ -3,6 +3,8 @@
 This repo contains the static website deployed on Azure as part of our FRT Project.
 This website is for healthy nutrition food and contains nutrition guildlines and provides information, tips, and resources to promote a balanced and health-conscious
 for better food choices.
+healthy nutrition is not just about individual foods, but also about the overall dietary pattern and lifestyle.variety, and balance in your food choices to support long-term health and well-being.
+This will gives expert advices  and nutrient-dense foods are rich in vitamins, minerals and other nutrients important for health, without too much saturated fat, added sugars and sodium.
 In this we use azure technologies like static web apps,Q and A maker.
 
 Project link - https://black-river-01ae4a310.3.azurestaticapps.net/
